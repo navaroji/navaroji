@@ -1,6 +1,16 @@
 {
-    "factory_code": "109846",
-    "data_lines": 8,
-    "check_type": "reportResult",
-    
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ]
 }
