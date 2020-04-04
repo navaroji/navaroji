@@ -3,7 +3,7 @@
     "data_lines": 8,
     "check_type": "reportResult",
     "data": [{         
-            "check_status": “true”,
+            "check_status": true,
             "project_name": "CCC",
             "process_name": "IS",
             "report_type":"in_qty",
@@ -13,7 +13,7 @@
             "factory_result": 0
         },
         {          
-            "check_status": “true”,
+            "check_status": true,
             "project_name": "CCC",
             "process_name": "IS",
             "report_type":"out_qty",
@@ -22,65 +22,5 @@
             "scms_result": 3000,
             "factory_result": 3000
         },
-        {          
-            "check_status": “false”,
-            "project_name": "CCC",
-            "process_name": "PA",
-            "report_type":"in_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 2562,
-            "factory_result": 2554
-        },
-        {          
-            "check_status": “true”,
-            "project_name": "CCC",
-            "process_name": "PA",
-            "report_type":"out_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 2548,
-            "factory_result": 2548
-        },
-        {          
-            "check_status": “true”,
-            "project_name": "CCC",
-            "process_name": "FA",
-            "report_type":"in_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 2697,
-            "factory_result": 2697
-        },
-        {          
-            "check_status": “false”,
-            "project_name": "CCC",
-            "process_name": "FA",
-            "report_type":"out_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 2823,
-            "factory_result": 2833
-        },
-        {          
-            "check_status": “true”,
-            "project_name": "CCC",
-            "process_name": "RT",
-            "report_type":"in_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 2836,
-            "factory_result": 2836
-        },
-        {          
-            "check_status": “true”,
-            "project_name": "CCC",
-            "process_name": "RT",
-            "report_type":"out_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 2627,
-            "factory_result": 2627
-        }
-    ]
+           ]
 }
