@@ -2,25 +2,5 @@
     "factory_code": "109846",
     "data_lines": 8,
     "check_type": "reportResult",
-    "data": [{         
-            "check_status": true,
-            "project_name": "CCC",
-            "process_name": "IS",
-            "report_type":"in_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 0,
-            "factory_result": 0
-        },
-        {          
-            "check_status": true,
-            "project_name": "CCC",
-            "process_name": "IS",
-            "report_type":"out_qty",
-            "site_name": "",
-            "shift_date": "2019-11-22",
-            "scms_result": 3000,
-            "factory_result": 3000
-        }
-           ]
+    
 }
