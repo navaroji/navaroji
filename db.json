@@ -31,15 +31,15 @@
       "CompletedCount":
       [
         {
-    "Name": ["Jan","FEB","march","April"],
-    "val": [200,12,100,400]
+    "Name": ["Jan","FEB","march","April","may","june","july"],
+    "val": [200,12,100,400,300,200,10]
         }
         ],
       "PendingCount":
       [
         {
        "Name": ["Jan","FEB","march","April"],
-      "val": [20,120,300,10]
+      "val": [20,120,300,10,200,500,50]
         }
       ]
   
