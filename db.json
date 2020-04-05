@@ -30,13 +30,17 @@
     {
       "CompletedCount":
       [
+        {
     "Name": ["Jan","FEB"],
     "val": [200,12]
-      ],
+        }
+        ],
       "PendingCount":
       [
+        {
       "Name": ["Jan","FEB"],
       "val": [20,120]
+        }
       ]
   
   }
