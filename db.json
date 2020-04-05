@@ -23,7 +23,7 @@
   }
   ],
   "comments": [
-    { "Count": 100, "body": "some comment", "postId": 1 }
+    { "Count_members": 100, "Count_openproject": 10, "CompletedCount": 30 }
     
   ],
   "profile": {
