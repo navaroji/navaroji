@@ -26,7 +26,11 @@
     { "Count_members": 100, "Count_openproject": 10, "CompletedCount": 30 }
     
   ],
-  "profile": {
-    "name": "typicode"
+  "Charts": [
+    {
+    "Name": {"JAN","FEB","MARCH","ApRIL"},
+    "data": {100,20,50,200},
+  
   }
+  ]
 }
