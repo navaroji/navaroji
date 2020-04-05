@@ -28,8 +28,8 @@
   ],
   "Charts": [
     {
-    "Name": "ApRIL",
-    "val": 200
+    "Name": ["Jan","FEB"],
+    "val": [200,12]
   
   }
   ]
