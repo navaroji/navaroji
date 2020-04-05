@@ -28,8 +28,8 @@
   ],
   "Charts": [
     {
-    "Name": {"JAN","FEB","MARCH","ApRIL"},
-    "data": {100,20,50,200},
+    "Name": ["JAN","FEB","MARCH","ApRIL"],
+    "data": [100,20,50,200],
   
   }
   ]
