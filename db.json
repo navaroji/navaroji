@@ -63,42 +63,49 @@
     "albumId": 1,
     "id": 1,
     "title": "Navaroji",
-    "url": "https://via.placeholder.com/600/92c952",
+    "url": "Common",
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
     "albumId": 1,
     "id": 2,
     "title": "Manikanda Kailasam",
-    "url": "https://via.placeholder.com/600/771796",
+    "url": "DTA",
     "thumbnailUrl": "https://via.placeholder.com/150/771796"
   },
   {
     "albumId": 1,
     "id": 3,
     "title": "Mani(SR)",
-    "url": "https://via.placeholder.com/600/24f355",
+    "url": "Common",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   },
         {
     "albumId": 1,
     "id": 4,
     "title": "Vijay",
-    "url": "https://via.placeholder.com/600/24f355",
+    "url": "SEZ",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   },
         {
     "albumId": 1,
     "id": 5,
     "title": "Meena",
-    "url": "https://via.placeholder.com/600/24f355",
+    "url": "CIP3",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   },
         {
     "albumId": 1,
     "id": 6,
     "title": "Mubarak",
-    "url": "https://via.placeholder.com/600/24f355",
+    "url": "Common",
+    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+  },
+        {
+    "albumId": 1,
+    "id": 6,
+    "title": "Murugan",
+    "url": "CIP3",
     "thumbnailUrl": "https://via.placeholder.com/150/24f355"
   }
       ]
